@@ -1,5 +1,7 @@
 # Lista de Tarefas :page_with_curl:
 
+#### Essa é uma aplicação desenvolvida para rodar apenas no console, e tem como objetivo o aprofundamento na linguagem C#
+
 ## Demonstração:
 ![ToDoListC#](https://github.com/MatheusMoorete/ToDoList/assets/128860497/ba5d5236-63e2-4a2a-b458-f5857d31861b)
 
